@@ -96,8 +96,8 @@ const Features = () => {
                     any metal, making these our{" "}
                     <span className="text-white">
                       lightest Pro models ever.
-                    </span>
-                    , You'll notice the difference the moment you pick one up.
+                    </span> {" "}
+                    You'll notice the difference the moment you pick one up.
                   </p>
                 </div>
               </div>

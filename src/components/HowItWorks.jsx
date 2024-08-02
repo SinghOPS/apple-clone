@@ -34,15 +34,15 @@ const HowItWorks = () => {
         <div className="flex flex-col items-center">
           <h2 className="hiw-title">
             A17 Pro chip
-            <br /> A monstr win for gaming.
+            <br /> A monster win for gaming.
           </h2>
           <p className="hiw-subtitle">
-            It's here. Thge biggest redesign in the history of Apple GPUs.
+            It's here. The biggest redesign in the history of Apple GPUs.
           </p>
         </div>
         <div className="mt-10 md:mt-20 mb-14">
           <div className="relative h-full flex-center">
-            <div className="overflow-hdden">
+            <div className="overflow-hidden">
               <img
                 src={frameImg}
                 alt="frame"
